@@ -1,4 +1,4 @@
-FROM logstash:2.1.1-1
+FROM logstash:5.6.10
 
 MAINTAINER Quirino Brizi, <quirino.brizi@accenture.com>
 
